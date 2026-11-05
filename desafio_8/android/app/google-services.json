@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329141905718",
+    "project_id": "desafio-8-5bb18",
+    "storage_bucket": "desafio-8-5bb18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329141905718:android:7a9660d4fadc4b8f9c2b97",
+        "android_client_info": {
+          "package_name": "com.example.desafio_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlTZMfR1_hD_pBNVC4KM2GZSjyl_mLdHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
